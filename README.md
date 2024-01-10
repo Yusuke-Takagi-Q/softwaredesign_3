@@ -1,4 +1,4 @@
-# Software Design 「画像AIの作り方」 第四回
+# Software Design 「画像AIの作り方」 第五回
 Software Design 2024年2月号「画像AIの作り方」 第五回に記載しているコードです。
 
 ## 説明
